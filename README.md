@@ -52,7 +52,7 @@ python main-seaborn.py
 
 <!-- CONTACT -->
 ## Contact
-Your Name - mehran.arkak@protonmail.com
+Mehran Arkak - mehran.arkak@protonmail.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
